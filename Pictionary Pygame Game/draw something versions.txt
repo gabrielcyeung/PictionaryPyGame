@@ -1,0 +1,33 @@
+*DRAW SOMETHING*
+----------------
+v1:
+-able to draw using the arrow key 
+
+v2:
+-colours options avaliable using 'F' keys
+-'F' keys can also wipe the screen blank 
+
+v3:
+-print outs "DRAW A.."
+
+v4:
+-reads a list of random nouns from a file
+-prints out the random noun using a random generator
+
+v5:
+-drawing with mouse enabled
+-drawing with keyboard deleted
+
+v6:
+-save image to hard drive
+v7
+v8:
+-added time
+v9:
+-removed the time funciton (bugging currently)\
+-fixing mouse function
+
+v13:
+-mouse function works
+-adding a colour bar
+-shows who's turn it is to draw

@@ -1,0 +1,14 @@
+COLOUR GUIDE: 
+KEYS - COLOUR
+1- BLUE
+2- RED
+3- GREEN
+4- BLACK
+5- AQUA
+6- WATER
+7- FUCHSIA
+8- PURPLE
+9- YELLOW
+0- ORANGE
+
+"R" - to play a new round
